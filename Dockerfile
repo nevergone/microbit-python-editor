@@ -25,6 +25,7 @@ RUN apk update \
     && cd python-editor \
     && sed -i 's@\$npm_package_version@$EDITOR_VERSION@g' .env \
     && sed -i 's@\$npm_package_name@microbit-python-editor@g' .env \
+    && echo "REACT_APP_STAGE=PRODUCTION" >> .env \
     && npm install \
     && npm run build
 
