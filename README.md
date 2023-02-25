@@ -1,10 +1,12 @@
-See: https://python.microbit.org/
+[micro:bit](https://microbit.org) Educational Foundation Python Editor V3
 
-Project source code: https://github.com/microbit-foundation/python-editor-v3/
+* See: https://python.microbit.org/
 
-Builder source code: https://github.com/nevergone/microbit-python-editor
+* Project source code: https://github.com/microbit-foundation/python-editor-v3/
 
-Docker Hub: https://hub.docker.com/r/nevergone/microbit-python-editor
+* Builder source code: https://github.com/nevergone/microbit-python-editor
+
+* Docker Hub: https://hub.docker.com/r/nevergone/microbit-python-editor
 
 ***Usage:***
 
